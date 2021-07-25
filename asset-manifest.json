@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fashion-react-app/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/fashion-react-app/static/js/main.ce1b6536.chunk.js",
+    "main.js.map": "/fashion-react-app/static/js/main.ce1b6536.chunk.js.map",
+    "runtime-main.js": "/fashion-react-app/static/js/runtime-main.c30a874b.js",
+    "runtime-main.js.map": "/fashion-react-app/static/js/runtime-main.c30a874b.js.map",
+    "static/js/2.96601cf4.chunk.js": "/fashion-react-app/static/js/2.96601cf4.chunk.js",
+    "static/js/2.96601cf4.chunk.js.map": "/fashion-react-app/static/js/2.96601cf4.chunk.js.map",
+    "static/js/3.91cb5650.chunk.js": "/fashion-react-app/static/js/3.91cb5650.chunk.js",
+    "static/js/3.91cb5650.chunk.js.map": "/fashion-react-app/static/js/3.91cb5650.chunk.js.map",
+    "index.html": "/fashion-react-app/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/fashion-react-app/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.96601cf4.chunk.js.LICENSE.txt": "/fashion-react-app/static/js/2.96601cf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c30a874b.js",
+    "static/js/2.96601cf4.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.ce1b6536.chunk.js"
+  ]
+}
